@@ -10,6 +10,4 @@ return(
 } 
   
 
-git config --global user.email "ramzi_madene@hotmail.com"
-  git config --global user.name "RamziMadene39"
 
